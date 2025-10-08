@@ -12,12 +12,11 @@
 
 ### 🛠️ Tools & Technologies  
 
-![Power BI](https://img.shields.io/badge/Power_BI-Data_Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-Data_Visualization-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Data_Science-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Database-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-Data_Cleaning-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ---
 
 ### 🌟 Featured Projects  
