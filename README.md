@@ -26,3 +26,6 @@
 ---
 
 ⭐ *Turning Data into Stories — from raw numbers to powerful visuals.*
+<br>
+
+*<sub>Last updated: October 2025</sub>*
